@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Sashank Agarwal 👋
 
 <!--
 **sasagarw/sasagarw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:point_right: :office: I’m currently working as Associate Software Engineer at Red Hat.
+
+:point_right: 🌱 I’m currently working on EFK stack, Loki.
+
+:point_right: 📫 How to reach me: [LinkedIn - @sashank-agarwal](https://www.linkedin.com/in/sashank-agarwal-0a1035143/)
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sasagarw&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
