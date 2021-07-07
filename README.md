@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 
 :point_right: 🌱 I’m currently working on EFK stack, Loki.
 
-:point_right: 📫 How to reach me: [LinkedIn - @sashank-agarwal](https://www.linkedin.com/in/sashank-agarwal-0a1035143/)
+:point_right: 📫 How to reach me: LinkedIn, Instagram, Gmail.
 
+[![Linkedin Badge](https://img.shields.io/badge/-SashankAgarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sashank-agarwal-0a1035143/)](https://www.linkedin.com/in/sashank-agarwal-0a1035143/)
+[![Instagram Badge](https://img.shields.io/badge/-SashankAgarwal-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sashankagarwal/)](https://www.instagram.com/sashankagarwal)
+[![Medium Badge](https://img.shields.io/badge/-@sashankagarwal-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sashankagarwal/)](https://medium.com/@sashankagarwal)
+[![Gmail Badge](https://img.shields.io/badge/-sashank058@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sashank058@gmail.com)](mailto:sashank058@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=sasagarw" alt="darecoder"/>
 
   <img src="https://github-readme-stats.vercel.app/api?username=sasagarw&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
