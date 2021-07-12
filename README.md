@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 :point_right: 📫 How to reach me: LinkedIn, Instagram, Gmail.
 
+:point_right: 🔭 Know more about me at: https://sashank058.github.io/SashankResume/
+
 [![Linkedin Badge](https://img.shields.io/badge/-SashankAgarwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sashank-agarwal-0a1035143/)](https://www.linkedin.com/in/sashank-agarwal-0a1035143/)
 [![Instagram Badge](https://img.shields.io/badge/-SashankAgarwal-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sashankagarwal/)](https://www.instagram.com/sashankagarwal)
 [![Medium Badge](https://img.shields.io/badge/-@sashankagarwal-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sashankagarwal/)](https://medium.com/@sashankagarwal)
