@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:point_right: :office: I’m currently working as Associate Software Engineer at Red Hat.
+:point_right: :office: I’m currently working as Software Engineer 2 at Intuit.
 
-:point_right: 🌱 I’m currently working on EFK stack, Loki.
+:point_right: 🌱 I’m currently working on Intuit Kubernetes Service.
+
+:point_right: 🌱 Previously worked at Red Hat on EFK stack, Loki.
 
 :point_right: 📫 How to reach me: LinkedIn, Instagram, Gmail.
 
