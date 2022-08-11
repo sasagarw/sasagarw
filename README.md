@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 :point_right: :office: I’m currently working as Software Engineer 2 at Intuit.
 
-:point_right: 🌱 I’m currently working on Intuit Kubernetes Service.
+:point_right: 🌱 I’m currently working as part of Intuit Kubernetes Service team.
 
 :point_right: 🌱 Previously worked at Red Hat on EFK stack, Loki.
 
